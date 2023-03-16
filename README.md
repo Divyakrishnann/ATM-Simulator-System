@@ -1,2 +1,2 @@
 # Bank-Management-System
-used jdbc connectivity,java,swing,sql
+used JDBC connectivity,Java swing,SQL
